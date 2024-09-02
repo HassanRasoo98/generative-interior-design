@@ -1,0 +1,8 @@
+transformers 
+scipy 
+diffusers 
+accelerate 
+opencv-python 
+pandas 
+tqdm 
+typed-argument-parser
